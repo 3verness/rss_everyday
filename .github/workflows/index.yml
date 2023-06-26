@@ -35,6 +35,6 @@ jobs:
       
       - name: Push changes
         if: steps.verify_diff.outputs.changed == 'true'
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
         with:
           github_token: ${{secrets.GITHUB_TOKEN}}
