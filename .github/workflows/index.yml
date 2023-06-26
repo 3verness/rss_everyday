@@ -29,8 +29,8 @@ jobs:
       - name: Commit Files
         if: steps.verify_diff.outputs.changed == 'true'
         run: |
-          git config --local user.email "youguanxinqing@qq.com"
-          git config --local user.name "youguanxinqing(bot)"
+          git config --local user.email "3verness@gmail.com.com"
+          git config --local user.name "3verness(bot)"
           git commit -m "update digest $(date +%Y-%m-%d)" -a
       
       - name: Push changes
