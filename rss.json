@@ -13,16 +13,16 @@
       "url": "https://catcoding.me/atom.xml"
     },
     {
-      "title": "hmgle's blog",
-      "url": "https://hmgle.github.io/feed.xml"
+      "title": "老麦笔记",
+      "url": "https://laomai.org/index.xml"
     },
     {
       "title": "CFC4N",
       "url": "https://www.cnxct.com/feed/"
     },
     {
-      "title": "brr",
-      "url": "https://brr.fyi/feed.xml"
+      "title": "Neverland",
+      "url": "https://lucas-0.github.io/index.xml"
     },
     {
       "title": "岁寒",
@@ -95,6 +95,10 @@
     {
       "title": "css-tricks",
       "url": "https://css-tricks.com/feed/"
+    },
+    {
+      "title": "森木志",
+      "url": "https://imxxz.cn/feed"
     },
     {
       "title": "Tony Bai",
